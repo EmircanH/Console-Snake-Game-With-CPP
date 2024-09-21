@@ -1,0 +1,10 @@
+﻿  Console-Snake-Game-With-CPP.cpp
+  Cell.cpp
+  Game.cpp
+C:\Users\emir_\OneDrive\Belgeler\C++ OOP\Yeni klasör (11)\Console-Snake-Game-With-CPP\Console-Snake-Game-With-CPP\lib\Src\Game.cpp(235,42): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+C:\Users\emir_\OneDrive\Belgeler\C++ OOP\Yeni klasör (11)\Console-Snake-Game-With-CPP\Console-Snake-Game-With-CPP\lib\Src\Game.cpp(249,60): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+C:\Users\emir_\OneDrive\Belgeler\C++ OOP\Yeni klasör (11)\Console-Snake-Game-With-CPP\Console-Snake-Game-With-CPP\lib\Src\Game.cpp(598,60): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+C:\Users\emir_\OneDrive\Belgeler\C++ OOP\Yeni klasör (11)\Console-Snake-Game-With-CPP\Console-Snake-Game-With-CPP\lib\Src\Game.cpp(710,23): warning C4101: 'cfi': yerel değişken başvurusu kaldırıldı
+  Snake.cpp
+  Kod Üretiliyor...
+  Console-Snake-Game-With-CPP.vcxproj -> C:\Users\emir_\OneDrive\Belgeler\C++ OOP\Yeni klasör (11)\Console-Snake-Game-With-CPP\x64\Debug\Console-Snake-Game-With-CPP.exe
