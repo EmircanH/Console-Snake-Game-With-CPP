@@ -1,7 +1,7 @@
 # Console-Snake-Game-With-CPP
  Console Snake Game With C++  
  
- Game saves scors and you can see list.
+ Game saves scors and you can see list. 
  Game has 3 mode easy - hard - special. 
  Game has 2 theme you can change setting with menu or directly in settings.txt  
  
